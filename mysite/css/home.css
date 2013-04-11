@@ -1,0 +1,30 @@
+  a:link {color: green;}
+  a:hover {color: red;}
+  a:visited {color: blue; font-family: Verdana; font-size: 1.5em;}
+  p {
+    margin-top: 0.5em;
+  }
+  h1 {color: red;}
+
+  body {
+    width : 770; 
+    height : auto;
+  } 
+  #cabecera {
+    width: auto; 
+    height: 100;
+    background-image:url('cabecera.jpeg');
+  }
+  #menu {
+    width: 200; 
+    height: auto; 
+    float: left;
+    padding: 0.3em;
+    margin-bottom: 0.7em;
+  }
+  #contenido{
+    width:530;
+    height: auto; 
+    float: right;
+    font-family: arial;
+  }

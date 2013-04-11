@@ -1,0 +1,85 @@
+
+#Nombre {
+  text-align: center;
+}
+#Nombre p {
+  font-size: 12px;
+/*   align: center; */
+}
+
+
+#linea {
+  margin-top: 20px;
+  width: 100%;
+  align: center;
+}
+#menu {
+  font-size: 20px;
+/*   margin-top: -8px; */
+}
+
+
+
+
+
+   #cabecera {
+      width : 960px;
+      height : 100px;
+/*       align: center; */
+      background-image : url('cabecera.jpg');
+      border-radius: 10px 10px 10px 10px;
+      border: 2px outset black;
+/*       color: white */
+   }
+
+ #textoCab { 
+   text-align: center;
+   margin-top: -25px;
+   height : 100px;
+   color: white;
+   font-size: 50px;
+ }
+   
+   #menu {
+      margin-top: 10px;
+      width : 960px;
+      height : 50px;
+ /*     padding: 10px 0;*/
+      background: red;
+      color: white;
+   }
+   
+   #menu ul h3{
+      float: left;
+      margin: 0 1.5em;
+   }
+   
+   #caja_8 {
+      background: white;
+   }
+   
+   #contenido1 {
+      margin-top: 10px;
+      background: green;
+   }
+   
+   #contenido2 {
+      margin-top: 10px;
+      background: white;
+   }
+   
+   #contenido3 {
+      margin-top: 10px;
+      background: yellow;
+   }
+   
+   #contenido4 {
+      margin-top: 10px;	
+      background: blue;
+   }
+
+  #foto {
+    margin-top: 10px;
+    width: 300;
+    heigh: 300;
+  }
